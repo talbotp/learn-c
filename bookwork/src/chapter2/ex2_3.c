@@ -42,7 +42,7 @@ int hex_to_int(char hex[])
     int hexvalue = 0;    
     int length = strlen(hex) - 1;
     
-    for (int i = length; i > initial - 1; i--
+    for (int i = length; i > initial - 1; i--)
         hexvalue += numberifyHex(hex[i]) * pow(BASE_16, length - i);   
  
     return hexvalue;
