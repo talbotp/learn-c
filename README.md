@@ -1,10 +1,10 @@
-#learn-c
+# learn-c
 
 I am working through the book "The C Programming Language - Second Edition."
 
 This repository just stores some code that I have used to help me learn through this book.
 
-##Book
+## Book
 
 The C Programming Language - Second Edition can be found [here](https://www.amazon.co.uk/C-Programming-Language-2nd/dp/0131103628)
 
