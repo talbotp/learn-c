@@ -1,2 +1,9 @@
+# Ignore binaries.
 bookwork/bin
+
 random/bin
+
+lower_upper/bin
+
+maker/target
+maker/bin
